@@ -37,4 +37,6 @@
 
 /.bundle
 /Gemfile.local
+Gemfile.lock
+plugins/redmine_backlogs/Gemfile.lock
 .capistrano/*
