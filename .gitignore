@@ -37,4 +37,4 @@
 
 /.bundle
 /Gemfile.local
-
+.capistrano/*

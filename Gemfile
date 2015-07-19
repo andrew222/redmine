@@ -85,6 +85,10 @@ end
 group :development do
   gem "rdoc", ">= 2.4.2"
   gem "yard"
+  gem 'capistrano', '~> 3.3.0'
+  gem 'capistrano-rvm'
+  gem 'capistrano-bundler'
+  gem 'capistrano-rails'
 end
 
 group :test do
